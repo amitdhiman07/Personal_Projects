@@ -1,0 +1,41 @@
+# IMDb Movie Data Analysis
+
+## Project Overview
+In this project, I performed an exploratory data analysis (EDA) on IMDb movie rating data to gain insights into audience preferences and trends. The goal was to uncover patterns in movie ratings based on genres and identify correlations between movie characteristics and ratings.
+
+## Key Objectives
+- Analyze IMDb movie rating data to determine the average rating per genre.
+- Visualize trends and patterns in movie ratings through data visualization techniques.
+- Identify potential relationships between movie attributes (e.g., budget, runtime) and their impact on ratings.
+- Present findings and insights in a clear and informative manner.
+
+## Tools and Technologies Used
+- Python for data analysis and visualization.
+- Pandas and NumPy for data manipulation and calculations.
+- Matplotlib for creating meaningful visualizations.
+- Jupyter Notebook for interactive data exploration and analysis.
+
+## Project Steps
+1. Data Acquisition: Gathered IMDb movie rating data, including movie attributes such as genre, rating, budget, and runtime.
+2. Data Preprocessing: Cleaned and preprocessed the data by handling missing values, outliers, and formatting issues.
+3. Exploratory Data Analysis: Conducted in-depth analysis to answer questions about average ratings per genre, distribution of ratings, and potential relationships between variables.
+4. Data Visualization: Created various visualizations, such as bar plots, scatter plots, and histograms, to illustrate key insights effectively.
+5. Insights and Recommendations: Derived actionable insights and recommendations based on the EDA findings.
+6. Project Report: Compiled a comprehensive project report summarizing the methodology, findings, visualizations, and insights.
+
+## Results and Findings
+- The average rating per genre revealed that certain genres, such as Drama and Adventure, tend to receive higher ratings compared to others.
+- A positive correlation was observed between movie budget and ratings, suggesting that higher-budget films often receive better ratings.
+- The distribution of ratings followed a roughly normal distribution, with the majority of movies falling within the 6-8 rating range.
+
+## Future Steps
+- Perform a more detailed analysis of audience demographics to understand how ratings vary across different age groups.
+- Implement machine learning techniques to predict movie ratings based on attributes and genre.
+- Expand the dataset to include more recent movie releases for up-to-date insights.
+
+## Conclusion
+The IMDb Movie Data Analysis project provided valuable insights into the relationships between movie runtime, genres, ratings. By leveraging data analysis and visualization, I uncovered trends that can inform decision-making in the entertainment industry. This project showcases my skills in data manipulation, exploratory analysis, and effective communication of technical findings.
+
+Feel free to reach out to me if you have any questions or suggestions related to this project.
+
+[LinkedIn Profile](https://www.linkedin.com/in/amit-dhiman-65aab4189/)
